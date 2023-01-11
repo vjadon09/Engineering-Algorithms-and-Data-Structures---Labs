@@ -1,2 +1,2 @@
 # Engineering Algorithms and Data Structures - LABS
- Labs done during Engineering Algorithms and Data Structures class
+Engineering Algorithms and Data Structures labs done in C language.
