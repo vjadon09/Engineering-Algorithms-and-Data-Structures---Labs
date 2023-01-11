@@ -1,0 +1,37 @@
+PNG Picture of State Machine is in the ZIP folder
+
+Hello 
+
+Your personalized state machine description for Lab 4 (coe 428) follows:
+
+A G B
+B E H
+C B A
+D H G
+E D C
+F C E
+G F G
+H A D
+
+Your starting state is: G 
+
+   Good luck!
+
+Process:
+I was able to implement three commands except the garbage, deleted and I attempted the changing 
+command as well but it wasn't working well for me. However I do keep getting segmentation errors when
+I test my code and I'm not sure at all why. First of all the main thing I had to search for
+was how to use structures and implement them. So I defined a structure data type and introduce my variables. 
+Next I made a new function called intial state and what this function does is that an array will intiated and will 
+correspond to a state letter which has been stated and once 0 is inputted it will add up to the letter and this will be the 
+same when input = 1. The print function will print out the state machine. With the main I initially made an array to make different
+commands for different functions. In order to take the inputs a while loop is created. Next I tried to implement the change command but 
+I tried testing it and it was not working so I commented it out. I started working on the garbage command but was not able to successfully implement it.
+My hope with the garbage program was to implement a command that would create an array and search all the states for values which are unreachable using if 
+statements and another pair of if statements to see whether or not the there is a garbage or not. I quickly realized that in order to have the delete command
+working, I would need to get the garbage command to work which was difficult to do for me. 
+
+Overall this lab was extremely difficult for me to follow and understand. I tried my best to implement as much as I could and used the internet to gather 
+some information about the functionality of the code. I hope future labs are bit less complex :). 
+
+
